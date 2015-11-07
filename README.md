@@ -1,0 +1,1 @@
+# ruby-gps-closest-json
